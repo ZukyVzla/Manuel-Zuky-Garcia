@@ -7,7 +7,6 @@ Subject: Sistemas Digitales
 *******************************************************************************/
 #include <iostream>
 
-// Se agrega el espacio de nombres estándar como solicitaste
 using namespace std;
 
 int main()
