@@ -9,7 +9,7 @@ Subject: Sistemas Digitales
 
 using namespace std;
 
-int main(
+int main()
 {
     // Declaración de variables para las 3 notas y el promedio
     float nota1, nota2, nota3, promedio;
